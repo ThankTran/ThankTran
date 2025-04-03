@@ -1,13 +1,24 @@
-# 💫About Me :
-## Hi, I'm Thanh 👋 – a dedicated software engineering student at the University of Information Technology. I’m passionate about coding and building innovative software solutions. Here’s a glimpse into what I’m working on and how we can connect:
-🔭 I'm currently working on:
-Personal projects that involve developing web and mobile applications, where I’m exploring the latest trends in software design and architecture.
-🌱 I'm currently learning:
-Modern programming languages and frameworks, along with best practices in agile development and continuous integration.
-👯 I'm looking to collaborate on:
-Open-source projects, tech meetups, or team-based development challenges related to software engineering.
-🤔 I'm looking for help with:
-Learning more about software design, game development, and web development—from architecture to implementation and optimization.
+# 💫 About Me :
+
+## Hi, I'm TTHT 👋  
+A dedicated software engineering student at the University of Information Technology. I’m passionate about coding and building innovative software solutions. Here’s a glimpse into what I’m working on and how we can connect:  
+
+### 🔭 I'm currently working on:  
+- Personal projects that involve developing web and mobile applications.  
+- Exploring the latest trends in software design and architecture.  
+
+### 🌱 I'm currently learning:  
+- Modern programming languages and frameworks.  
+- Best practices in agile development and continuous integration.  
+
+### 👯 I'm looking to collaborate on:  
+- Open-source projects.  
+- Tech meetups.  
+- Team-based development challenges related to software engineering.  
+
+### 🤔 I'm looking for help with:  
+- Learning more about **software design, game development, and web development**—from architecture to implementation and optimization.  
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081145186795) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__tkahntrn27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thanh-tr%E1%BA%A7n-th%E1%BB%8B-h%E1%BB%93ng-539a13359/) 
