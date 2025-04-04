@@ -29,13 +29,10 @@ A dedicated software engineering student at the University of Information Techno
 ![](https://github-readme-stats.vercel.app/api?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThankTran&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ThankTran&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!--
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ThankTran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+!-->
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
