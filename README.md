@@ -37,7 +37,7 @@ A dedicated software engineering student at the University of Information Techno
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Cute gif
-<img src="gif.jfif" width="512px"/>
+<img src="anmt.jfif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThankTran&icon=0&color=0)](https://visitcount.itsvg.in)
