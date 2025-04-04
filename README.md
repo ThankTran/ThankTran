@@ -36,7 +36,7 @@ A dedicated software engineering student at the University of Information Techno
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ❣❣❣ 
+### 💕💕💕
 <img src="anmt.jfif" width="512px"/>
 
 ---
