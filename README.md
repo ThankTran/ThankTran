@@ -47,6 +47,7 @@ A dedicated software engineering student at the [University of Information Techn
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ThankTran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 !-->
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
