@@ -4,8 +4,8 @@
 A dedicated software engineering student at the [University of Information Technology](https://www.uit.edu.vn/). I’m passionate about coding and building innovative software solutions. Here’s a glimpse into what I’m working on and how we can connect:  
 
 ### 🔭 I'm currently working on:  
-- Personal projects that involve developing web and mobile applications.  
-- Exploring the latest trends in software design and architecture.  
+- Personal projects that involve developing **web** and **mobile applications**.  
+- Exploring the latest trends in **software design** and **architecture**.  
 
 ### 🌱 I'm currently learning:  
 - Modern programming languages and frameworks.  
