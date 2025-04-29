@@ -31,7 +31,6 @@ A dedicated software engineering student at the [University of Information Techn
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThankTran&theme=radical&hide_border=false" alt="GitHub Streak">
-
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
