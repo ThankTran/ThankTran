@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThankTran&label=Profile%20views&color=ff69b4&style=flat" alt="brucesteven" /> </p>
+<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=ThankTran&label=Profile%20views&color=ff69b4&style=flat" alt="brucesteven" /> </h2>
 
 # 💫 About Me :
 
