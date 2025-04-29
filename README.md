@@ -28,10 +28,16 @@ A dedicated software engineering student at the [University of Information Techn
 # 💻Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 # 📊GitHub Stats :
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="float: left;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThankTran&theme=radical&hide_border=false" alt="GitHub Streak" style="float: right;">
-</div>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
+    </td>
+    <td align="right">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThankTran&theme=radical&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
 </p>
