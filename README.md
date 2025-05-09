@@ -39,7 +39,7 @@ A dedicated software engineering student at the [University of Information Techn
       <img src="https://github-readme-stats.vercel.app/api?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
     </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" height="140">
     </td>
   </tr>
 </table>
