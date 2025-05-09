@@ -39,11 +39,6 @@ A dedicated software engineering student at the [University of Information Techn
       <img src="https://github-readme-stats.vercel.app/api?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats">
     </td>
     <td align="right">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThankTran&theme=radical&hide_border=false" alt="GitHub Streak">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages">
     </td>
   </tr>
@@ -51,6 +46,7 @@ A dedicated software engineering student at the [University of Information Techn
 <!--
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=ThankTran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThankTran&theme=radical&hide_border=false" alt="GitHub Streak">
 !-->
 
 ### ✍️Random Dev Quote
