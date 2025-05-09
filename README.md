@@ -1,7 +1,12 @@
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=ThankTran&label=Profile%20views&color=ff69b4&style=flat" alt="brucesteven" /> </h1>
 
-# 💫 About Me :
+## 💫 About me
+## Hi, I'm TTHT 👋
+- 🔭 I’m currently studying at [VNUHCM-UIT](https://www.uit.edu.vn/).
+- 🚀 Major in **Software Engineer**.
 
+<!--
+# 💫 About Me :
 ## Hi, I'm TTHT 👋  
 A dedicated software engineering student at the [University of Information Technology](https://www.uit.edu.vn/). I’m passionate about coding and building innovative software solutions. Here’s a glimpse into what I’m working on and how we can connect:  
 
@@ -20,7 +25,7 @@ A dedicated software engineering student at the [University of Information Techn
 
 ### 🤔 I'm looking for help with:  
 - Learning more about **software design, game development, and web development**—from architecture to implementation and optimization.  
-
+!-->
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100081145186795) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__tkahntrn27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thanh-tr%E1%BA%A7n-th%E1%BB%8B-h%E1%BB%93ng-539a13359/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=gmail&logoColor=white)](mailto:hongthanh3aqn@gmail.com)  
