@@ -94,15 +94,5 @@
 
 ---
 
-<h3>📈 Activity Graph</h3>
-
-<p>
-  <a href="https://github.com/ThankTran">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThankTran&theme=github-compact&radius=16&color=8B0000&line=8B0000&point=DC143C" width="100%" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
 <!-- FOOTER: thay đường dẫn ảnh của bạn vào đây -->
 <img src="./img/footer.jpg" alt="TTHT footer" width="100%" />
