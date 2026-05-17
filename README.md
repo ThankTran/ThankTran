@@ -108,23 +108,5 @@
 
 ---
 
-<h3>🌋 GitHub Stats</h3>
-
-<table align="center">
-  <tr>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ThankTran&theme=dark&hide_border=true&bg_color=0D1117&title_color=E8622A&icon_color=FF9966&text_color=C9C9C9&include_all_commits=true&count_private=true&show_icons=true&custom_title=Commit%20Log" alt="GitHub Stats" />
-    </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThankTran&theme=dark&hide_border=true&bg_color=0D1117&title_color=E8622A&text_color=C9C9C9&layout=compact&count_private=true&custom_title=Language%20Breakdown" alt="Top Languages" />
-      <br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=ThankTran&theme=dark&hide_border=true&background=0D1117&ring=E8622A&fire=FF9966&currStreakLabel=E8622A&sideNums=FF9966&currStreakNum=FF9966&dates=A0A0A0&sideLabels=A0A0A0" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- FOOTER: thay đường dẫn ảnh của bạn vào đây -->
 <img src="./img/footer.jpg" alt="TTHT footer" width="100%" />
