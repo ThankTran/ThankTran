@@ -1,11 +1,9 @@
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=ThankTran&label=Profile%20views&color=ff69b4&style=flat" alt="brucesteven" /> </h1>
-
 <!-- BANNER: thay đường dẫn ảnh của bạn vào đây -->
 <img src="./img/banner.jpg" alt="TTHT banner" width="100%" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=28&fontColor=E8622A&fontAlignY=70&animation=fadeIn" alt="Welcome" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E8622A&height=1&section=header" width="100%" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=28&fontColor=8B0000&fontAlignY=70&animation=fadeIn" alt="Welcome" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=1&section=header" width="100%" alt="divider" />
 </div>
 
 <p align="center">
@@ -14,19 +12,19 @@
 
 <p align="center">
   <a href="mailto:hongthanh3aqn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-E8622A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B1A10" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-8B0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0000" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/thanktran/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-E8622A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B1A10" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0000" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/ThankkTrann">
-    <img src="https://img.shields.io/badge/Facebook-Follow-E8622A?style=for-the-badge&logo=facebook&logoColor=white&labelColor=2B1A10" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Follow-8B0000?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1A0000" alt="Facebook" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThankTran&style=for-the-badge&color=E8622A&labelColor=2B1A10&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ThankTran?style=for-the-badge&color=E8622A&labelColor=2B1A10&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=ThankTran&style=for-the-badge&color=8B0000&labelColor=1A0000&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ThankTran?style=for-the-badge&color=8B0000&labelColor=1A0000&label=Followers" alt="Followers" />
 </p>
 
 <br>
@@ -82,7 +80,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -92,7 +89,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
@@ -101,7 +98,7 @@
 
 <p>
   <a href="https://github.com/ThankTran">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThankTran&theme=github-compact&radius=16&color=E8622A&line=E8622A&point=FF9966" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThankTran&theme=github-compact&radius=16&color=8B0000&line=8B0000&point=DC143C" width="100%" alt="Activity Graph" />
   </a>
 </p>
 
