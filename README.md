@@ -1,5 +1,5 @@
 <!-- BANNER: thay đường dẫn ảnh của bạn vào đây -->
-<img src="./img/banner.jpg" alt="TTHT banner" width="100%" />
+<!-- <img src="./img/banner.jpg" alt="TTHT banner" width="100%" /> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=28&fontColor=8B0000&fontAlignY=70&animation=fadeIn" alt="Welcome" />
